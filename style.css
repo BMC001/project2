@@ -1,0 +1,25 @@
+/* css style.css*/
+/*index.html project 33*/
+
+
+* {
+	padding: 0;
+	margin:0;
+}
+
+#navbarNavAltMarkup {
+	display: flex;
+	justify-content: end;
+}
+
+html, body {
+	overflow-x: hidden;
+}
+
+#ct-nav-bar {padding-left: 0px;
+padding-right: 0px;}
+
+.navbar-brand i {
+	padding-left: 10px;
+}
+
